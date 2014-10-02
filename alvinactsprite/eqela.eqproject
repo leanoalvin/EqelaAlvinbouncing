@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# AlvinActSprite
+#
+
+projectname: AlvinActSprite
+vendorid: com.mycompany
+mainmodule: com.mycompany.alvinactsprite
